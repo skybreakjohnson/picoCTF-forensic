@@ -2,6 +2,12 @@
 
 ## information
 
+### check the file
+```
+file cat.jpg     
+
+cat.jpg: JPEG image data, JFIF standard 1.02, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 2560x1598, components 3
+```
 ### show all metadata of image 
 ```
 exiftool -all cat.jpg
